@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sabrysm
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Competitive Programming techniques
+- 👀 I’m 2nd year ECE Student
 - 📫 How to reach me : abdo_bosat@yahoo.com
 
 <!---
