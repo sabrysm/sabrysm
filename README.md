@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sabrysm
-- 👀 I’m 2nd year ECE Student
+- 👀 I’m 3nd year ECE Student
 - 📫 How to reach me : abdo_bosat@yahoo.com
 
 <!---
